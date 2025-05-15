@@ -1,4 +1,4 @@
-module github.com/micro-services-roadmap/atom-redis
+module github.com/gomsr/atom-redis
 
 go 1.23.1
 
